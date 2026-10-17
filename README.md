@@ -1,0 +1,1 @@
+# app-tsfm-intraday-equity-csharp
